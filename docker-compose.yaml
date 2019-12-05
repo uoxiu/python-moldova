@@ -1,0 +1,9 @@
+version: '3.2'
+
+services:
+  jekyll-site:
+    build:
+      dockerfile: Dockerfile
+      context: ./
+    ports:
+      - "8080:4000"
