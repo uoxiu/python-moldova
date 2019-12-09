@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        none
 
 # Setup
-title:            PYTHON
-tagline:          'Community'
+title:            'Python Moldova Community'
+tagline:          'Developers, Events and News'
 description:      'Community website of Python Developers from Moldova'
 baseurl:          /
 
