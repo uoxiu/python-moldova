@@ -17,3 +17,5 @@ Devino parte a comunității Moldova Python Community - MPyCom:
 
 * [Telegram](https://t.me/mpycom)
 * [Facebook](https://www.facebook.com/groups/pymoldova/)
+
+![Community photo](/public/assets/common/community.jpg)

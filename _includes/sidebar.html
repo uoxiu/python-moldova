@@ -1,11 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+
+    <a href="{{ site.baseurl }}"><img src="/public/assets/common/logo.png"></a>
+
     <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -26,8 +24,9 @@
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item" target="_blank" href="https://github.com/uoxiu/python-moldova">Edit website</a>
+
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
