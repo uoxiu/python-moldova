@@ -1,0 +1,35 @@
+---
+layout: page
+title: Registration
+---
+
+Name:<br>
+<input class="form-field" id="name" type="text" name="name" placeholder="Ion Jython" required>
+<br>
+
+Email:<br>
+<input class="form-field" id="email" type="email" name="email" placeholder="ion@example.md" required>
+<br>
+
+Company:<br>
+<input class="form-field" id="company" type="text" name="company" placeholder="Google" required>
+<br>
+
+<input class="form-button" id="save_form" type="submit" value="self.submit()"/>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#save_form").click(function () {
+            $.post("/api/register/", {
+                name: $("#name").val(),
+                email: $("#email").val(),
+                company: $("#company").val(),
+                subject: $("#subject").val(),
+            }).done(function (data) {
+                window.location.href = '/thank.html';
+            });
+        });
+    });
+</script>

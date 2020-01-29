@@ -1,0 +1,49 @@
+---
+layout: page
+title: Apply to be a speaker
+---
+
+<form action="#" method="post" id="speaker_form">
+
+    <i>We expect you to be a community contributor, to inspire and grow people.</i>
+    <br>
+    <br>
+
+    Name:<br>
+    <input class="form-field" id="name" type="text" name="name" placeholder="Ion Jython" required>
+    <br>
+
+    Email:<br>
+    <input class="form-field" id="email" type="email" name="email" placeholder="ion@example.md" required>
+    <br>
+
+    Company:<br>
+    <input class="form-field" id="company" type="text" name="company" placeholder="Google" required>
+    <br>
+
+    Presentation subject:<br>
+    <input class="form-field" id="subject" type="text" name="subject" placeholder="How to Become a Python Developer" required>
+    <br>
+
+    <input class="form-button" type="submit" value="self.submit()"/>
+
+</form>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#speaker_form").submit(function (e) {
+            e.preventDefault();
+            $.post("/api/register/", {
+                name: $("#name").val(),
+                email: $("#email").val(),
+                company: $("#company").val(),
+                subject: $("#subject").val(),
+            }).done(function (data) {
+                window.location.href = '/thank.html';
+            }).fail(function () {
+                alert('Something went wrong :(');
+            });
+        });
+    });
+</script>
