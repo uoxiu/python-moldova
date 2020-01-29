@@ -21,14 +21,21 @@ Company:<br>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
     $(document).ready(function () {
-        $("#save_form").click(function () {
-            $.post("/api/register/", {
-                name: $("#name").val(),
-                email: $("#email").val(),
-                company: $("#company").val(),
-                subject: $("#subject").val(),
+        $("#speaker_form").submit(function (e) {
+            e.preventDefault();
+            $.ajax("/api/register/", {
+                data: JSON.stringify({
+                    name: $("#name").val(),
+                    email: $("#email").val(),
+                    company: $("#company").val(),
+                    subject: $("#subject").val(),
+                }),
+                contentType: 'application/json',
+                type: 'POST'
             }).done(function (data) {
                 window.location.href = '/thank.html';
+            }).fail(function () {
+                alert('Something went wrong :(');
             });
         });
     });

@@ -22,7 +22,8 @@ title: Apply to be a speaker
     <br>
 
     Presentation subject:<br>
-    <input class="form-field" id="subject" type="text" name="subject" placeholder="How to Become a Python Developer" required>
+    <input class="form-field" id="subject" type="text" name="subject" placeholder="How to Become a Python Developer"
+           required>
     <br>
 
     <input class="form-button" type="submit" value="self.submit()"/>
@@ -34,11 +35,15 @@ title: Apply to be a speaker
     $(document).ready(function () {
         $("#speaker_form").submit(function (e) {
             e.preventDefault();
-            $.post("/api/register/", {
-                name: $("#name").val(),
-                email: $("#email").val(),
-                company: $("#company").val(),
-                subject: $("#subject").val(),
+            $.ajax("/api/register/", {
+                data: JSON.stringify({
+                    name: $("#name").val(),
+                    email: $("#email").val(),
+                    company: $("#company").val(),
+                    subject: $("#subject").val(),
+                }),
+                contentType: 'application/json',
+                type: 'POST'
             }).done(function (data) {
                 window.location.href = '/thank.html';
             }).fail(function () {
