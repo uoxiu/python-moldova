@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background: url('/public/assets/common/pbg.png') #1c142c;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -267,7 +267,6 @@ a.sidebar-nav-item:focus {
   padding: 16px 30px;
   margin-bottom: 0;
   font-size: 18px;
-  font-weight: 400;
   line-height: 1.42857143;
   text-align: center;
   white-space: nowrap;
@@ -280,10 +279,11 @@ a.sidebar-nav-item:focus {
   -ms-user-select: none;
   user-select: none;
   background-image: none;
-  border: 1px solid #ccc;
+  border: 1px solid #1b132b;
   border-radius: 4px;
-  color: #333;
-  background-color: #fff;
+  color: #f9f9f9;
+  background-color: #4f456f;
+  font-weight: bold;
 }
 
 ::placeholder {

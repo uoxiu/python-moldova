@@ -3,20 +3,27 @@ layout: page
 title: Registration
 ---
 
-Name:<br>
-<input class="form-field" id="name" type="text" name="name" placeholder="Ion Jython" required>
-<br>
+<form action="#" method="post" id="speaker_form">
 
-Email:<br>
-<input class="form-field" id="email" type="email" name="email" placeholder="ion@example.md" required>
-<br>
+    <i>Join the Moldova Python community. Let's inspire and grow people together.</i>
+    <br>
+    <br>
 
-Company:<br>
-<input class="form-field" id="company" type="text" name="company" placeholder="Google" required>
-<br>
+    Name:<br>
+    <input class="form-field" id="name" type="text" name="name" placeholder="Ion Jython" required>
+    <br>
 
-<input class="form-button" id="save_form" type="submit" value="self.submit()"/>
+    Email:<br>
+    <input class="form-field" id="email" type="email" name="email" placeholder="ion@example.md" required>
+    <br>
 
+    Company:<br>
+    <input class="form-field" id="company" type="text" name="company" placeholder="Google" required>
+    <br>
+
+    <input class="form-button" type="submit" value="self.submit()"/>
+
+</form>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
@@ -27,8 +34,7 @@ Company:<br>
                 data: JSON.stringify({
                     name: $("#name").val(),
                     email: $("#email").val(),
-                    company: $("#company").val(),
-                    subject: $("#subject").val(),
+                    company: $("#company").val()
                 }),
                 contentType: 'application/json',
                 type: 'POST'

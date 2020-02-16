@@ -13,7 +13,7 @@ Scopul nostru este de a reuni dezvolatorii Python într-o comunitate, pentru a s
 
 Considerăm că discursul tău va aduce o mare valoare în cadrul evenimentului Python Meetup. 
 
-Dacă ești decis - completează acest formular: [Vreau să fiu speaker](/speaker.html)
+Dacă ești decis - completează acest formular: _aplicarea a fost închisă_ 
 
 
 ![Community photo](/public/assets/common/community.jpg)
