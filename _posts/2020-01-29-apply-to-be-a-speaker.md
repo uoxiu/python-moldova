@@ -5,7 +5,7 @@ author: Creator
 short: Te invităm să participi în calitate de speaker la Python Meetup, evenimentul ce va avea loc la sfârșitul lunii Februarie 2020. Acesta va dura câteva ore pentru o audiență de aproximativ 150 persoane, în Chișinău.
 ---
 
-Suntem bucuroși să te anunțăm că suntem în pregătirea următorului eveniment, dedicat enginerilor Python din Moldova.
+Suntem bucuroși să te anunțăm că suntem în pregătirea următorului eveniment, dedicat inginerilor Python din Moldova.
 
 Te invităm să participi în calitate de speaker la Python Meetup, evenimentul ce va avea loc la sfârșitul lunii Februarie 2020. Acesta va dura câteva ore pentru o audiență de aproximativ 150 persoane, în Chișinău.
 
