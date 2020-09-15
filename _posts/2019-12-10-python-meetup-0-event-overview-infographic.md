@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Meetup &#35;0 - Event overview
-author: uoxiu
+author: Administrator
 short: Python Meetup &#35;0 deja sa petrecut și e timpul să facem și totalurile, în formă de un Infografic
 ---
 

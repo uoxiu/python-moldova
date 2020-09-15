@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post on Python Moldova Blog
-author: Creator
+author: Administrator
 short: Bucuroși să vă anunțăm că am lansat un mic blog unde vom publica informații despre activitatea comunității python în Moldova cât și articole educaționale.
 ---
 

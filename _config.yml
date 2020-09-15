@@ -11,12 +11,18 @@ tagline:          'Developers, Events and News'
 description:      'Community website of Python Developers from Moldova'
 baseurl:          /
 
-
-paginate:         5
-
 # deployment
 host: 0.0.0.0
 port: 4000
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 5
+
+collections:
+  jobs:
+    output: true
+    permalink: /jobs/:path/

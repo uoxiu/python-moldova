@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apply as a speaker at Python Meetup &#35;1
-author: Creator
+author: Administrator
 short: Te invităm să participi în calitate de speaker la Python Meetup, evenimentul ce va avea loc la sfârșitul lunii Februarie 2020. Acesta va dura câteva ore pentru o audiență de aproximativ 150 persoane, în Chișinău.
 ---
 

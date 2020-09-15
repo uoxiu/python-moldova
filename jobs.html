@@ -1,24 +1,36 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Careers
+permalink: /careers
 pagination:
   enabled: true
-  sort_reverse: true
+  collection: 'jobs'
 ---
 
+Aici am adunat cele mai tari posturi deschise pentru dezvoltatorii de Python care își caută echipa potrivită.
+<br>
+<br>
+Pentru a adăuga postul vacant în această listă, contactați-ne <b>community@python.md</b> - e absolut gratuit!
+<br>
+<br>
+
+
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for job in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
+    <div class="post-photo">
+      <a href="{{ job.url }}"><img src="{{ job.image }}" width="150"></a>
+    </div>
+    <h2 class="post-title">
+      <a href="{{ job.url }}">
+        {{ job.title }}
       </a>
-    </h1>
+    </h2>
+    <span class="post-date">at <b>{{ job.company }}</b></span>
 
-    <span class="post-date">{{ post.date | date_to_string }} | {{ post.author }}</span>
-
-    {{ post.short }}
+    {{ job.short }}
   </div>
+  <div class="clearfix"></div>
   {% endfor %}
 </div>
 

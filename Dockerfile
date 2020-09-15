@@ -14,7 +14,7 @@ RUN gem install jekyll -v 3.8
 
 RUN gem install kramdown
 RUN gem install pygments.rb
-RUN gem install jekyll-paginate
+RUN gem install jekyll-paginate-v2
 
 
 # Copying src code to Container

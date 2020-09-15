@@ -4,8 +4,19 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }} | {{ page.author }}</span>
+  <span class="post-date">{{ page.date | date_to_string }} |
+    {% if page.author_link %}
+      <a href="{{ page.author_link }}" target="_blank">{{ page.author }}</a>
+    {% else %}
+      {{ page.author }}
+    {% endif %}
+  </span>
   {{ content }}
+
+  <br>
+  <br>
+  Dacă acest material a fost util te rugăm să faci un share pentru a contribui la dezvoltarea comunității de Python Developers
+  <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f60f99607b95d0012fb2db9&product=inline-share-buttons" async="async"></script>
 </div>
 
 {% if site.related_posts.size > 0 %}
