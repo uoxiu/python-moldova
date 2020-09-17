@@ -6,8 +6,8 @@ author_link: https://medium.com/@nicolaegodina
 short: În acest articol am adunat 5 cele mai importante motive pentru a face o alegere argumentată în adoptarea limbajului Python în compania dvs.
 ---
 
-Companiile ce implementează produse software, iau în considerarea mai mulți factori când selectează stack-ul pentru un proiect.
-Factorii luați cel mai des în cosidetație sunt: viteza de dezvoltare, costul programatorilor, securitatea, scalabilitate, popularitatea, librăriile, integrările și stabilitatea. 
+Companiile ce implementează produse software, iau în considerare mai mulți factori când selectează stack-ul pentru un proiect.
+Factorii luați cel mai des în calcul sunt: viteza de dezvoltare, costul programatorilor, securitatea, scalabilitate, popularitatea, librăriile, integrările și stabilitatea. 
 
 În acest articol am adunat 5 cele mai importante motive pentru a face o alegere argumentată în adoptarea limbajului Python în compania dvs.
 
@@ -19,7 +19,7 @@ Python este un limbaj care va permite să măriți viteza de development cu ajut
 
 ![](/public/assets/posts/reasons/image5.png)
 
-_Exemplu de un API Endpoint in Flask framework_
+_Un alt exemplu de un API Endpoint in Flask framework în câteva rânduri de cod_
 
 Un alt factor important în mărire a vitezei este reducerea codului scris. Python are un set de reguli și concepte implementate în arhitectura limbajului cu scopul reducerii volumului de cod, spre exemplu o aplicație în Python este de 2–3 ori mai scurtă decât una analogică în Java. Tot odată Python are dezvoltate o mulțime de librării în repositoriul Pypi care oferă dezvoltatorilor șansa de a utiliza soluții replicabile și verificate.
 
@@ -29,7 +29,7 @@ Un alt factor important în mărire a vitezei este reducerea codului scris. Pyth
 
 ![](/public/assets/posts/reasons/image4.png)
 
-Python de asemenea este în topul celor mai iubite limbaje, demonstrând satisfacția dezvoltatorilor conform StackOverflow 2020 Developer Survey, tot odată dacă ne uităm la tehnologiile pe care dezvoltatorii le raportează că nu le folosesc, dar vor să învețe, Python ocupă primul loc pentru al patrulea an consecutiv.
+Python de asemenea este în topul celor mai iubite limbaje, demonstrând satisfacția dezvoltatorilor conform StackOverflow 2020 Developer Survey, tot odată dacă ne uităm la tehnologiile pe care dezvoltatorii le raportează că nu le folosesc, dar doresc să învețe, Python ocupă primul loc pentru al patrulea an consecutiv.
 
 ![](/public/assets/posts/reasons/image3.png)_[https://insights.stackoverflow.com/survey/2020](https://www.google.com/url?q=https://insights.stackoverflow.com/survey/2020%23technology-most-loved-dreaded-and-wanted-languages-wanted&sa=D&ust=1600193644207000&usg=AOvVaw0u3ncCh_CuOAE8pRMFRlUe)_
 
