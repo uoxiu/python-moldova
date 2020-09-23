@@ -34,6 +34,20 @@ The successful Python Developer will have to participate in all phases of the so
 *   Strong unit test and debugging skills
 *   Strong analytical skills and good attention to detail
 
-**E-mail:** apply@amdaris.com
+**BENEFITS**
 
-**Phone number:** 060755228
+*   Opportunities for certification and training
+*   Dual monitor setup and high-spec workstations
+*   English courses
+*   Gym allowance
+*   Medical Reimbursement
+*   Full salary covered up to 20 days of sickness
+*   Flexible working hours
+*   Loyalty scheme
+*   Team building activities, special events and conferences
+*   UK/EU Travel opportunities 
+*   Snacks and drinks in the office
+
+**E-mail:** [apply@amdaris.com](mailto:apply@amdaris.com)
+
+**Phone number:** [060755228](tel:060755228)
