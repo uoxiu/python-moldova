@@ -13,4 +13,4 @@ Python Fundamentals Express este un curs de 25 de sesiuni cu o durată totală d
 
 Sesiunile vor fi atât teoretice cât și practice pentru a ajuta participanții să acumuleze o bază solidă de cunoștințe. La finele cursului, se vor realiza două aplicații simple pentru a se asigura că cele predate au fost însușite.
 
-Află mai multe despre preț, mentor și programa analitică a cursului pe următorul link: https://www.tekwill.md/courses/python-fundamentals-course
+Află mai multe despre preț, mentor și programa analitică a cursului pe următorul link: [https://www.tekwill.md/courses/python-fundamentals-course](https://www.tekwill.md/courses/python-fundamentals-course)
