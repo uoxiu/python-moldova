@@ -5,6 +5,9 @@ author: Administrator
 short: Se oferă la licitație un loc de Administrator a grupului nostru de Telegram! O posibilitate rară de a fi la garda grupului și a contribui exclusiv la comunitatea dezvoltatorilor Python. Pentru a primi rolul de Super Administrator a grupului e necesar doar să scrii un super articol pe python.md.
 ---
 
+![Article cover](/public/assets/posts/story-contest.png)
+
+
 Se oferă la licitație un loc de Administrator a grupului nostru de Telegram! 
 O posibilitate rară de a fi la garda grupului și a contribui exclusiv la comunitatea dezvoltatorilor Python. 
 Pentru a primi rolul de Super Administrator a grupului e necesar doar să scrii un super articol pe python.md.
