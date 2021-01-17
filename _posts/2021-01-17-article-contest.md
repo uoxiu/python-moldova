@@ -13,11 +13,11 @@ O posibilitate rară de a fi la garda grupului și a contribui exclusiv la comun
 Pentru a primi rolul de Super Administrator a grupului e necesar doar să scrii un super articol pe python.md.
 
 ## 📑 Condițiile concursului:
-- De publicat un articol în limba română, rusă sau engleză pe python.md (instrucțiune detaliată aici: [github.com/uoxiu/python-moldova#-cum-adaug-un-articol](https://github.com/uoxiu/python-moldova#-cum-adaug-un-articol))
+- De publicat un articol în limba română, rusă sau engleză pe python.md (instrucțiune detaliată aici: [github.com/uoxiu/python-moldova#add](https://github.com/uoxiu/python-moldova#-cum-adaug-un-articol))
 - Tematica articolului să fie legată de limbajul Python (o experiență de muncă, o librărie interesantă, rezolvarea unei probleme, etc.)
 - Articolul să conțină cel puțin 500 cuvinte
 - Să fie original și să nu fie o traducere a altui articol
-- Să respecte toate regulile de conținut a site-ului: [github.com/uoxiu/python-moldova#-reguli-de-con%C8%9Binut](https://github.com/uoxiu/python-moldova#-reguli-de-con%C8%9Binut)
+- Să respecte toate regulile de conținut a site-ului: [github.com/uoxiu/python-moldova#rules](https://github.com/uoxiu/python-moldova#-reguli-de-con%C8%9Binut)
 
 ## ⏲️ Deadline
 8 februarie 2021, 09:00 AM (EET timezone)
