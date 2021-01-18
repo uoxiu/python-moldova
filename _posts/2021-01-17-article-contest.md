@@ -8,9 +8,9 @@ short: Se oferă la licitație un loc de Administrator a grupului nostru de Tele
 ![Article cover](/public/assets/posts/story-contest.png)
 
 
-Se oferă la licitație un loc de Administrator a grupului nostru de Telegram! 
+Se oferă la licitație un loc de Administrator al grupului nostru de Telegram! 
 O posibilitate rară de a fi la garda grupului și a contribui exclusiv la comunitatea dezvoltatorilor Python. 
-Pentru a primi rolul de Super Administrator a grupului e necesar doar să scrii un super articol pe python.md.
+Pentru a primi rolul de Super Administrator al grupului e necesar doar să scrii un super articol pe python.md.
 
 ## 📑 Condițiile concursului:
 - De publicat un articol în limba română, rusă sau engleză pe python.md (instrucțiune detaliată aici: [github.com/uoxiu/python-moldova#add](https://github.com/uoxiu/python-moldova#-cum-adaug-un-articol))
@@ -34,4 +34,4 @@ Câștigătorul primește rol de Administrator în grupul Moldova Python Communi
 
 **Vă uram multă inspirație și succes în timpul participării!**
 
-Pentru mai multe detalii puteți plasa întrebări pe grupul [t.me/mpycom](https://t.me/mpycom)
+Pentru mai multe detalii puteți plasa întrebări pe grupul [t.me/mpycom](https://t.me/mpycom).
