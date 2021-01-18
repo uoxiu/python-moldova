@@ -1,6 +1,6 @@
 # Python Moldova Community
 
-Acest repositoriu este un website dezvoltat pe baza generatorului Jekyll și reprezintă pagina oficială a comunității de dezvoltatori Python din Moldova (python.md)
+Acest repositoriu este un website dezvoltat pe baza generatorului Jekyll și reprezintă pagina oficială a comunității de dezvoltatori Python din Moldova (python.md).
 
 Cu ajutorul acestui repozitoriu se permite ca oricine să dețină posibilitate de adăugare a conținutului pe acest website. Pentru asta e necesar doar să creați un `Pull request` cu noul articol și să fie Merged de un maintainer a repozitoriului.
 
@@ -33,23 +33,23 @@ docker-compose up --build
 
 ## 📑 Reguli de conținut
 
-1. Pe site sunt permise publicarea conținutului doar în limba Română, Rusă și Engleză
-2. Tematica articolului trebuie să fie în mod obligatoriu tangentă cu limbajul Python sau activitatea comunității date
-3. Sunt interzise articole ce conțin: spam, publicitate, limbaj vulgar, abuz, încurajări în utilizarea unor servicii financiare sau jocuri de noroc
-4. În conținutul articolui este permisă posiblitatea de o singură mențiune cu link a companiei unde activați, a blogului personal, a unui profil pe rețele de socializare sau a proiectului la care lucrați
-5. Nu este permisă publicarea unui articol existent pe internet pentru a nu crea dublicare de conținut
-6. Articolul trebuie să fie scris corect gramatical și bine structurat
+1. Pe site sunt permise publicarea conținutului doar în limba Română, Rusă și Engleză.
+2. Tematica articolului trebuie să fie în mod obligatoriu tangentă cu limbajul Python sau activitatea comunității date.
+3. Sunt interzise articole ce conțin: spam, publicitate, limbaj vulgar, abuz, încurajări în utilizarea unor servicii financiare sau jocuri de noroc.
+4. În conținutul articolui este permisă posiblitatea de o singură mențiune cu link a companiei unde activați, a blogului personal, a unui profil pe rețele de socializare sau a proiectului la care lucrați.
+5. Nu este permisă publicarea unui articol existent pe internet pentru a nu crea dublicare de conținut.
+6. Articolul trebuie să fie scris corect gramatical și bine structurat.
 
 ## ❤️ Ce articole ar fi iubite de cititorii noștri
 
-1. Ce descriu experiența dvs cu limbajul Python
-2. Care au un caracter educațional (tutorial, how to)
-3. Care ajută cititorii să rezolve o problemă anume
-4. Care descriu un instrument de dezvoltare sau un package python
+1. Ce descriu experiența dvs cu limbajul Python.
+2. Care au un caracter educațional (tutorial, how to).
+3. Care ajută cititorii să rezolve o problemă anume.
+4. Care descriu un instrument de dezvoltare sau un package python.
 
 
 
 
-Vă uram multă inspirație și success
+Vă uram multă inspirație și success!
 
-Pentru mai multe detalii puteți plasa întrebarea dvs pe https://t.me/mpycom sau pe adresa de email community[ at ]python.md
+Pentru mai multe detalii puteți plasa întrebarea dvs pe https://t.me/mpycom sau pe adresa de email community[ at ]python.md.
