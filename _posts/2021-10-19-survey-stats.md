@@ -2,14 +2,12 @@
 layout: post
 title: Analiza sondajului din octombrie 2021
 author: Nicolae Godina
-short: Cu puțin în urmă am făcut un mic referendum în grupul de telegram, a fost un sondaj voluntar și lumea care a avut ceva timp a răspuns la câteva întrebări pentru a identifica interesele comunității.
+short: Cu puțin timp în urmă, am făcut un mic referendum în grupul de telegram. A fost un sondaj voluntar și persoanele au dispus de timp, au răspuns la câteva întrebări pentru a identifica interesele comunității. Pentru analiza datelor am decis să folosesc Python, cu toate că nu am abilități excepționale în Data Analysis, dar aș dori să mă împart cu rezultatele obținute.
 ---
 
-Cu puțin în urmă am făcut un mic referendum în grupul de telegram, a fost un sondaj voluntar și lumea care a avut ceva timp a răspuns la câteva întrebări pentru a identifica interesele comunității.
-Pentru a analiza datele am decis la fel să folosesc Python, cu toate că nu sunt bun în dată analysis dar vreau să mă împart cu rezultatele.
+Cu puțin timp în urmă, am făcut un mic referendum în grupul de telegram. A fost un sondaj voluntar și persoanele au dispus de timp, au răspuns la câteva întrebări pentru a identifica interesele comunității. Pentru analiza datelor am decis să folosesc Python, cu toate că nu am abilități excepționale în Data Analysis, dar aș dori să mă împart cu rezultatele obținute.
 
-
-Deci avem următoarele date de intrare, care le-am curățit și am corectat greșelile de tapare în câmpul unde nu erau opțiuni de selecție
+Avem următoarele date de intrare, care le-am curățit și am corectat greșelile de tapare în câmpul unde nu erau opțiuni de selecție:
 
 ```python
 data = [
