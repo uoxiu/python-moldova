@@ -13,6 +13,7 @@ WORKDIR /srv/jekyll
 RUN gem install jekyll -v 3.8
 
 RUN gem install kramdown
+RUN gem install rouge
 RUN gem install pygments.rb
 RUN gem install jekyll-paginate-v2
 

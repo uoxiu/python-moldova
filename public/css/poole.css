@@ -160,6 +160,7 @@ abbr[title] {
 code,
 pre {
     font-family: Menlo, Monaco, "Courier New", monospace;
+    font-weight: 600;
 }
 
 code {
