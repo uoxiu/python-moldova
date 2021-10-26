@@ -251,15 +251,15 @@ a.sidebar-nav-item:focus {
 
 .form-field {
   max-width: 500px;
-  font-size: 20px;
-  width: 100%;
-  padding: 10px;
+  font-size: .8rem;
+  width: 200px;
+  padding: 5px;
   line-height: 1.42857143;
   color: #555;
   background-color: #fff;
   background-image: none;
   border: 1px solid #ccc;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .form-button {
