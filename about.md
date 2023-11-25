@@ -3,17 +3,16 @@ layout: page
 title: About
 ---
 
-Moldova Python Community, abreviat "MPyCom" este o comunitate cu scopul de comunicare 
-între inginerii Python din Moldova, unde puteți contribui și obține cele mai recente tendințe. 
- 
-Încurajăm schimbul de informații și cunoștințe în domeniul limbajului de programare Python, 
-ajutându-ne reciproc în rezolvarea problemelor prin conținut plasat pe canalele noastre de comunicare.
+Welcome to Moldova Python Community, a place aimed at fostering communication among Python engineers in Moldova, 
+where you can contribute and stay updated on the latest trends.
 
-Ne dorim să dezvoltăm o comunitate puternică de ingineri ce aplică Python în programare, 
-din acest motiv s-a creat un canal pe Telegram, unde sunt deja mai mult de peste 200 
-specialiști și utilizatori ai limbajului Python. 
+We encourage the exchange of information and knowledge in the field of the Python programming language, 
+assisting each other in problem-solving through content shared on our communication channels.
 
-Devino parte a comunității Moldova Python Community - MPyCom: 
+Our goal is to build a strong community of engineers who apply Python in programming. To achieve this, 
+a Telegram channel has been created, where there are already over 400 specialists and Python language users.
+
+Become a part of the Moldova Python Community - MPyCom:
 
 * [Telegram](https://t.me/mpycom)
 * [Facebook](https://www.facebook.com/groups/pymoldova/)
