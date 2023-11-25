@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Be a Voice: Apply as a Speaker for the Python Meetup!
+title: Be a Voice - Apply as a Speaker for the Python Meetup!
 author: Administrator
-short: Get ready to shine in the spotlight at our December Python meetup! 😁 We've got a handful of free speaker slots up for grabs, and if your story involves Python magic, we want to hear it.
+short: Get ready to shine in the spotlight at our December Python meetup! We have got a handful of free speaker slots up for grabs, and if your story involves Python magic, we want to hear it.
 ---
 
 Get ready to shine in the spotlight at our December Python meetup! 😁 We've got a handful of free speaker slots up for grabs, 
