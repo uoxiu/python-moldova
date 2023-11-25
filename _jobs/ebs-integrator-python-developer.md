@@ -1,58 +1,41 @@
 ---
 layout: job
-title: Middle Python Developer
+title: Python Developer
 company: EBS Integrator
 image: /public/assets/jobs/ebs-integrator.jpg
-short: Dezvoltăm activ un nou proiect și avem nevoie de un membru in echipa Python, interesat să lucreze în proiecte high load
+short: EBS Integrator is a software development company that has been creating customized mobile and web business solutions since 2010
 ---
 
 ![EBS Integrator](/public/assets/jobs/ebs-integrator.jpg)
 
+EBS Integrator is a software development company that has been creating customized mobile and web business solutions since 2010.
 
-Dezvoltăm activ un nou proiect și avem nevoie de un membru in echipa Python, interesat să lucreze în proiecte high load.  
+We design flexible and scalable product architecture while using the latest technology in mobile development and network infrastructure. 
+Most of our digital transformation initiatives are focused on building self-contained, highly efficient, and reusable building blocks that speak data.
 
-**Deci, cunoștințele pe care le solicităm sunt:**
+Our experience proved that Python and its frameworks are one of the best-fitting technologies out there - hence Python Engineers lay at the center of our gravity.
 
-*   Django (+DRF) sau Flask;
-*   PostgreSQL, MongoDB, ElasticSearch, Redis;
-*   RabbitMQ, Celery, Kafka.
+If you are a developer who seeks rich experiences in building data-centric, high-load, and scalable solutions.
 
-**Vei avea prioritate dacă:**
+If you would rather work across multiple verticals than focus on a single-pathed experience.
 
-*   cunoști limba engleză la nivel tehnic;
-*   ai experiență de cel puțin 2 ani;
-*   poți opera cu stream-uri de date și cu baze de date mari.
+If you love keeping up with innovations across anything Python, our doors are open.
 
-**Ne-ar plăcea:**
+In exchange, we guarantee access to state-of-the-art tools, a knowledge base, and many other elements of a healthy learning environment, to grow and explore your chosen potential.
 
-*   să fii responsabil și să respecți deadline-urile;
-*   să știi să generezi și să expui idei;
-*   să fii capabil să oferi și să accepți critică argumentată;
-*   să ai un mindset pozitiv;
-*   să fii dornic de cunoștințe noi;
-*   să ai dorință de a contribui la proiecte semnificative;
-*   să ai dorință de a dezvolta comunitatea Python din Moldova.
+**Job Responsibilities:**
 
-**Compania îți oferă:**
+*   Develop functionalities according to Business Requirements Documentation and acceptance criteria; 
+*   Follow SDLC delivery and take part in all software development phases; 
+*   Write efficient, reusable, and test-adherent code; 
+*   Act within a high level of autonomy and capacity. 
 
-*   Bonus adițional pentru fiecare angajat recomandat (referral program);
-*   Cursuri de perfecționare a limbii engleze;
-*   Bibliotecă actualizată cu literatură pe diverse tehnologii şi soft skills;
-*   Oficiu inspirațional, amplasat în centrul capitalei, dotat cu echipament modern;
-*   Acces nelimitat la băuturi fierbinți și fructe;
-*   Posibilitatea de a participa în cadrul Meetup-urilor lunare;
-*   Program de mentoring, coaching și feedback;
-*   Cadouri cu ocazia evenimentelor speciale (zile de naștere, căsătorii, nașterea unui copil, etc.);
-*   Asistență la participarea în cadrul conferințelor naționale și internaționale, inclusiv în calitate de speaker;
-*   Acces gratuit la platforme internaționale de e-learning, precum Udemy, Raywenderlich;
-*   Spațiu destinat pentru iubitorii de ping pong și jocuri de masă;
-*   Terasă pe acoperișul clădirii pentru iubitorii de priveliști urbane.
+**Skills & Qualifications:**
 
-[https://www.youtube.com/watch?v=yT2AN3EBl-4](https://www.youtube.com/watch?v=yT2AN3EBl-4)
+*   4+ years of experience working in Python; 
+*   Solid Knowledge Base (KB) of Django, Fast API, or Flask, including experience in Software Engineering Design and Development; 
+*   Intermediate, or upper intermediate English; 
+*   Good unit test and debugging skills; 
+*   Solid KB of SCM with a strong emphasis on Git and Git Flow. 
 
-Dacă în ultima perioadă te-ai gândit că ar fi bine să faci o schimbare în viața ta, înseamnă că ai nevoie de o experiență nouă. 
-
-Aplică la e-mail-ul: **[hr@ebs-integrator.com](mailto:hr@ebs-integrator.com)  **  
-
-Fă primul pas către schimbare, iar noi îți oferim ocazia să acumulezi o experiență valoroasă.  
-
+If interested, please send an e-mail with “Python Developer” in the subject line at **hr@ebs-integrator.com**
