@@ -3,7 +3,7 @@ layout: job
 title: Senior Python Developer
 company: Amdaris
 image: /public/assets/jobs/amdaris.jpg
-short: This role involves using established work procedures to analyse, design, develop, implement, maintain, re-engineer and troubleshoot customers’ applications.
+short: The main purpose of the role is to develop and support Python projects and functions and complete specific client project work and miscellaneous tasks
 ---
 
 ![Amdaris](/public/assets/jobs/amdaris.jpg)
