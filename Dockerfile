@@ -10,10 +10,11 @@ RUN mkdir -p /srv/jekyll
 # Setting Home Directory for containers
 WORKDIR /srv/jekyll
 
+RUN gem install public_suffix -v 4.0.7
 RUN gem install jekyll -v 3.8
 
 RUN gem install kramdown
-RUN gem install rouge
+RUN gem install rouge -v 3.30.0
 RUN gem install pygments.rb
 RUN gem install jekyll-paginate-v2
 
