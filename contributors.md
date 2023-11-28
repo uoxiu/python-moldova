@@ -16,5 +16,6 @@ Thank you, everyone, for the work on this project:
 * [serghei.ungurean](https://www.linkedin.com/in/serghei-ungurean-7b1618156/) - Technical Lead at Profit.com - speaker
 * [mihai.tugui](https://www.linkedin.com/in/mihaitugui/) - CEO at EBS Integrator - speaker
 * [ivan.budanaev](https://www.linkedin.com/in/ivanbudanaev/) - Data Scientist at Helium 10 - speaker
+* [mihail.bodarev](https://www.linkedin.com/in/mihailbodarev/) - UX/UI Designer - design
 
 This list will be supplemented with people who will contribute to this community
