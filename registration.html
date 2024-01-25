@@ -3,55 +3,31 @@ layout: page
 title: Registration
 ---
 
-<form action="#" method="post" id="speaker_form">
+<h1>Python Meetup</h1>
 
-    <h1>Python Meetup - 8 Februarie 2024</h1>
+<b>Moldova Python Community</b> organizează o nouă ediție a evenimentului dedicată comunității dezvoltatorilor pasionați de acest limbaj. 
+În cadrul meetup-ului experții noștrii vor discuta despre noile tendințe în domeniu, 
+vor dezvălui o parte din know-how-urile bazate pe propria experiență, și vor răspunde la întrebările voastre!
 
-    <b>Moldova Python Community</b> organizează a doua ediție a evenimentului
-    dedicată comunității dezvoltatorilor pasionați de acest limbaj. În cadrul meetup-ului experții noștrii
-    vor discuta despre noile tendințe în domeniu, vor dezvălui o parte din know-how-urile bazate pe propria experiență,
-    și vor răspunde la întrebările voastre!
+<br><br>
 
-    <br><br>
-    Vino să cunoști cea mai cool comunitate de dezvoltatori, pasionați de Python din Moldova!
-    <br><br>
-    
-    Data: <b>8 februarie 2024, ora 18:45</b><br>
-    Locația: <b>Digital Park, etaj 1.</b><br>
-    Telegram: <b><a href="https://t.me/mpycom" target="_blank">t.me/mpycom</a></b><br>
-    Instagram: <b><a href="https://instagram.com/python.moldova" target="_blank">python.moldova</a></b><br>
-    <br>
-    Accesul la event este gratuit dar numărul de locuri este limitat, vă rugăm să vă înregistrați.
-    <br>
-    <h2>Rezervă-ți acum un loc la eveniment</h2>
-    <pre>member = EventMember(event='Python Meetup')
+<b>De această dată vom vorbi despre:</b><br>
+- Cele mai frecvente probleme care le poți întâmpina în Django<br>
+- Cum să îmbuntățești tipizarea și structurarea datelor în codul tău<br>
+- Cum să folosești PySpark in ETL și data processing<br><br>
 
-member.name    = <input class="form-field" id="name" type="text" name="name" placeholder="Ion Jython" required>
-member.email   = <input class="form-field" id="email" type="email" name="email" placeholder="ion@python.com" required>
-member.company = <input class="form-field" id="company" type="text" name="company" placeholder="PSF" required> </pre>
+<b>De ce ar trebui sa participi:</b><br>
+- să obții cunoștințe noi din domeniu<br>
+- să te împărți cu experiența ta<br>
+- să cunoști cea mai cool comunitate de dezvoltatori, pasionați de Python din Moldova!<br><br>
 
-    <input class="form-button" type="submit" value="member.save()"/>
+Vino să cunoști cea mai cool comunitate de dezvoltatori, pasionați de Python din Moldova!
+<br><br>
 
-</form>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-    $(document).ready(function () {
-        $("#speaker_form").submit(function (e) {
-            e.preventDefault();
-            $.ajax("https://python.md/api/register/", {
-                data: JSON.stringify({
-                    name: $("#name").val(),
-                    email: $("#email").val(),
-                    company: $("#company").val()
-                }),
-                contentType: 'application/json',
-                type: 'POST'
-            }).done(function (data) {
-                window.location.href = '/thank.html';
-            }).fail(function () {
-                alert('Something went wrong :(');
-            });
-        });
-    });
-</script>
+Data: <b>8 februarie 2024, ora 19:00</b><br>
+Locația: <b>Digital Park</b><br>
+Telegram: <b><a href="https://t.me/mpycom" target="_blank">t.me/mpycom</a></b><br>
+<br>
+Accesul la event este gratuit dar numărul de locuri este limitat, vă rugăm să vă înregistrați.
+<br>
+<h2>Rezervă-ți acum un loc la eveniment pe <b><a href="https://unde.io/event/275" target="_blank">unde.io/event/275</a></b></h2>
